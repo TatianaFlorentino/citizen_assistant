@@ -1,6 +1,6 @@
 # citizen_assistant
 AGENTE DE IA 
-
+<img width="1270" height="656" alt="image" src="https://github.com/user-attachments/assets/ca0b94f2-e1b9-4c15-adf5-01294f82557c" />
 
 Citizen Support Assistant – Manual Interativo
 
