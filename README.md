@@ -4,6 +4,8 @@ AGENTE DE IA
 
 Citizen Support Assistant – Manual Interativo
 
+Segue o link :https://fearsome-spooky-cobweb-4v7554pqj7c5jpj-8501.app.github.dev/
+
 Bem-vindo ao wiki do Citizen Support Assistant!
 Este projeto é um protótipo de assistente digital para ajudar cidadãos a tirar dúvidas sobre sistemas ou serviços públicos, usando um FAQ simples.
 
